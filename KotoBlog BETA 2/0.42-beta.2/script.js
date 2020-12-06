@@ -1,0 +1,1 @@
+var miau = new Audio("../mew.wav");
