@@ -82,6 +82,7 @@ hr {
     background: #555555;
     left: -15px;
     width: calc(100% + 30px);
+    position: absolute;
   }
   body{
       overflow-x: hidden;
