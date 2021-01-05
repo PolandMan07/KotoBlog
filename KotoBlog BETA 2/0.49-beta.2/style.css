@@ -1,0 +1,127 @@
+a {
+    color: blue;
+}
+
+.bloglistt {
+    font-size: 20px;
+}
+.betawarning {
+    background-color: rgb(236, 125, 125);
+    float: right;
+    /*background-color: rgb(255, 245, 138);
+    Ta strona jest jeszcze w wersji beta. Jeśli chcesz zobaczyć pełną wersję strony, to musiszpoczekać kilka miesięcy.
+    */
+    text-align: right;
+}
+.gradientdiv {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, white, pink, red, orange, yellow, lightgreen, green, rgb(0, 68, 155), blue, rgb(103, 0, 206), purple, black);
+    cursor: wait;
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+.gradientdiv:hover {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(135deg, white, pink, red, orange, yellow, lightgreen, green, rgb(0, 68, 155), blue, rgb(103, 0, 206), purple, black);
+}
+.giff {
+    height: 666px;
+    overflow: auto;
+    width: 517px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    border: 1px solid black;
+}
+.easteregg {
+    display: none;
+}
+.miaubutton {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-image: linear-gradient(180deg, white, rgb(212, 212, 212));
+    transition: transform 3000ms;
+}
+.miaubutton:active {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(0deg, white, rgb(212, 212, 212));
+    background-image: "kotoblog_logo_64x64.png";
+    transform: scale(50);
+}
+.miaubutton:hover {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: rotate(360000deg) scale(500);
+}
+.miauprompcik {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-image: linear-gradient(180deg, white, rgb(212, 212, 212));
+}
+.lol {
+    background-image: "moje2kociadlaaaa.jpeg";
+}
+.divv {
+    text-align: center;
+}
+.hrr {
+    border: 0;
+    height: 1px;
+    background-image: solid rgb(112, 112, 112) ;
+    background: #78af20;
+    left: -15px;
+    width: calc(100% + 30px);
+    position: absolute;
+}
+body{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.blogpost{
+    width: 502px;
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    padding: 10px;
+}
+.profileicon{
+    width: 32px;
+    border-radius: 360deg;
+    border: 1px solid black;
+    height: 32px;
+    text-align: left;
+    float: left;
+}
+.bhr{
+    border: 0;
+    height: 1px;
+    background-image: solid rgb(112, 112, 112) ;
+    background: #555555;
+    left: 0px;
+    width: 100%;
+    position: absolute;
+}
+.profileiconbig{
+    width: 512px;
+    border-radius: 360deg;
+    border: 1px solid black;
+    height: 512px;
+    text-align: left;
+    float: left;
+}
