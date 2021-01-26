@@ -137,49 +137,49 @@ body{
     margin-left: 5px;
 }
 .sg{
-    background-image: url("sg.png");
+    background-image: url("../sg.png");
     float: left;
     width:138px;
     height:43px;
 }
 .kb{
-    background-image: url("kb.png");
+    background-image: url("../kb.png");
     float: left;
     width:94px;
     height:43px;
 }
 .omnie{
-    background-image: url("omnie.png");
+    background-image: url("../omnie.png");
     float: left;
     width:79px;
     height:43px;
 }
 .zdj{
-    background-image: url("zdj.png");
+    background-image: url("../zdj.png");
     float: left;
     width:188px;
     height:43px;
 }
 .inne{
-    background-image: url("inne.png");
+    background-image: url("../inne.png");
     float: left;
     width:58px;
     height:43px;
 }
 .twpro{
-    background-image: url("twpro.png");
+    background-image: url("../twpro.png");
     float: left;
     width:107px;
     height:43px;
 }
 .unkn{
-    background-image: url("unkn.png");
+    background-image: url("../unkn.png");
     float: left;
     width:45px;
     height:43px;
 }
 .zaloguj{
-    background-image: url("zaloguj.png");
+    background-image: url("../zaloguj.png");
     float: right;
     width:108px;
     height:43px;
