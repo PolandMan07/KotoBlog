@@ -1,0 +1,234 @@
+a {
+    color: blue;
+}
+
+.bloglistt {
+    font-size: 20px;
+}
+.betawarning {
+    float: right;
+    /*background-color: rgb(255, 245, 138);*/
+    text-align: right;
+    overflow: visible;
+}
+.gradientdiv {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, white, pink, red, orange, yellow, lightgreen, green, rgb(0, 68, 155), blue, rgb(103, 0, 206), purple, black);
+    cursor: wait;
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+.gradientdiv:hover {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(135deg, white, pink, red, orange, yellow, lightgreen, green, rgb(0, 68, 155), blue, rgb(103, 0, 206), purple, black);
+}
+.giff {
+    height: 666px;
+    overflow: auto;
+    width: 517px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    border: 1px solid black;
+}
+.easteregg {
+    display: none;
+}
+.miaubutton {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-image: linear-gradient(180deg, white, rgb(212, 212, 212));
+    transition: transform 3000ms;
+}
+.miaubutton:active {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(0deg, white, rgb(212, 212, 212));
+    background-image: "kotoblog_logo_64x64.png";
+    transform: scale(50);
+}
+.miaubutton:hover {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: rotate(360000deg) scale(500);
+}
+.miauprompcik {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-image: linear-gradient(180deg, white, rgb(212, 212, 212));
+}
+.lol {
+    background-image: "moje2kociadlaaaa.jpeg";
+}
+.divv {
+    text-align: center;
+}
+.hrr {
+    border: 0;
+    height: 1px;
+    background-image: solid rgb(112, 112, 112) ;
+    background: #555555;
+    left: -15px;
+    width: calc(100% + 30px);
+    position: absolute;
+}
+body{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.blogpost{
+    width: 502px;
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    padding: 10px;
+}
+.profileicon{
+    width: 32px;
+    border-radius: 360deg;
+    border: 1px solid black;
+    height: 32px;
+    text-align: left;
+    float: left;
+}
+.bhr{
+    border: 0;
+    height: 1px;
+    background-image: solid rgb(112, 112, 112) ;
+    background: #555555;
+    left: 0px;
+    width: 100%;
+    position: absolute;
+}
+.profileiconbig{
+    width: 512px;
+    border-radius: 360deg;
+    border: 1px solid black;
+    height: 512px;
+    text-align: left;
+    float: left;
+}
+.xo{
+    height: 64px;
+    width: 64px;
+}
+.profileicon2{
+    width: 24px;
+    border-radius: 360deg;
+    border: 1px solid black;
+    height: 24px;
+    text-align: right;
+    float: right;
+    margin-left: 5px;
+}
+.sg{
+    background-image: url("../../sgen.png");
+    float: left;
+    width:108px;
+    height:43px;
+}
+.kb{
+    background-image: url("../../kb.png");
+    float: left;
+    width:94px;
+    height:43px;
+}
+.omnie{
+    background-image: url("../../omnieen.png");
+    float: left;
+    width:100px;
+    height:43px;
+}
+.zdj{
+    background-image: url("../../zdjen.png");
+    float: left;
+    width:214px;
+    height:43px;
+}
+.inne{
+    background-image: url("../../inneen.png");
+    float: left;
+    width:111px;
+    height:43px;
+}
+.twpro{
+    background-image: url("../../twproen.png");
+    float: left;
+    width:117px;
+    height:43px;
+}
+.unkn{
+    background-image: url("../../unkn.png");
+    float: left;
+    width:45px;
+    height:43px;
+}
+.zaloguj{
+    background-image: url("../../zalogujen.png");
+    float: right;
+    width:70px;
+    height:43px;
+}
+.sg:hover{
+    background-image: url("../../sghen.png");
+    float: left;
+    width:108px;
+    height:43px;
+}
+.kb:hover{
+    background-image: url("../../kbh.png");
+    float: left;
+    width:94px;
+    height:43px;
+}
+.omnie:hover{
+    background-image: url("../../omniehen.png");
+    float: left;
+    width:100px;
+    height:43px;
+}
+.zdj:hover{
+    background-image: url("../../zdjhen.png");
+    float: left;
+    width:214px;
+    height:43px;
+}
+.inne:hover{
+    background-image: url("../../innehen.png");
+    float: left;
+    width:111px;
+    height:43px;
+}
+.twpro:hover{
+    background-image: url("../../twprohen.png");
+    float: left;
+    width:117px;
+    height:43px;
+}
+.unkn:hover{
+    background-image: url("../../unknh.png");
+    float: left;
+    width:45px;
+    height:43px;
+}
+.zaloguj:hover{
+    background-image: url("../../zalogujhen.png");
+    float: right;
+    width:70px;
+    height:43px;
+}
